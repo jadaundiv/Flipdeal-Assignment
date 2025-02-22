@@ -84,7 +84,7 @@ The backend APIs are designed to be integrated with FlipDeal's frontend UI. Upda
 ## Live Demo
 
 Check out the live demo of the frontend: [FlipDeal Product Listing Page](https://bd2-listing-page.vercel.app/). <br/>
-For checking this link copy and paste this link (https://flip-deal-listing-page-theta.vercel.app) to above provided frontend link.
+For Integration with frontend UI copy and paste this link (https://flip-deal-listing-page-theta.vercel.app) to above provided frontend link.
 
 ---
 
